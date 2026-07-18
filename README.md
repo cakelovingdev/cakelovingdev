@@ -1,1 +1,1 @@
-![cake1](./assets/cake.png)
+![cake2](./assets/cake.png)
